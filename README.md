@@ -9,5 +9,5 @@ crontab -e
 
 ```
 # add job
-@reboot /home/liubko/music-in-the-shower/main.sh &> /home/liubko/music-in-the-shower/LOGS.txt
+@reboot /home/liubko/music-in-the-shower/main.sh
 ```
